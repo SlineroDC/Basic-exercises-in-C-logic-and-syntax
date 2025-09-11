@@ -1,0 +1,15 @@
+/home/Coder/Documentos/Slinero/Basic-exercises-in-C-logic-and-syntax/exercises_3/bin/Debug/net8.0/exercises_3
+/home/Coder/Documentos/Slinero/Basic-exercises-in-C-logic-and-syntax/exercises_3/bin/Debug/net8.0/exercises_3.deps.json
+/home/Coder/Documentos/Slinero/Basic-exercises-in-C-logic-and-syntax/exercises_3/bin/Debug/net8.0/exercises_3.runtimeconfig.json
+/home/Coder/Documentos/Slinero/Basic-exercises-in-C-logic-and-syntax/exercises_3/bin/Debug/net8.0/exercises_3.dll
+/home/Coder/Documentos/Slinero/Basic-exercises-in-C-logic-and-syntax/exercises_3/bin/Debug/net8.0/exercises_3.pdb
+/home/Coder/Documentos/Slinero/Basic-exercises-in-C-logic-and-syntax/exercises_3/obj/Debug/net8.0/exercises_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/Coder/Documentos/Slinero/Basic-exercises-in-C-logic-and-syntax/exercises_3/obj/Debug/net8.0/exercises_3.AssemblyInfoInputs.cache
+/home/Coder/Documentos/Slinero/Basic-exercises-in-C-logic-and-syntax/exercises_3/obj/Debug/net8.0/exercises_3.AssemblyInfo.cs
+/home/Coder/Documentos/Slinero/Basic-exercises-in-C-logic-and-syntax/exercises_3/obj/Debug/net8.0/exercises_3.csproj.CoreCompileInputs.cache
+/home/Coder/Documentos/Slinero/Basic-exercises-in-C-logic-and-syntax/exercises_3/obj/Debug/net8.0/exercises_3.sourcelink.json
+/home/Coder/Documentos/Slinero/Basic-exercises-in-C-logic-and-syntax/exercises_3/obj/Debug/net8.0/exercises_3.dll
+/home/Coder/Documentos/Slinero/Basic-exercises-in-C-logic-and-syntax/exercises_3/obj/Debug/net8.0/refint/exercises_3.dll
+/home/Coder/Documentos/Slinero/Basic-exercises-in-C-logic-and-syntax/exercises_3/obj/Debug/net8.0/exercises_3.pdb
+/home/Coder/Documentos/Slinero/Basic-exercises-in-C-logic-and-syntax/exercises_3/obj/Debug/net8.0/exercises_3.genruntimeconfig.cache
+/home/Coder/Documentos/Slinero/Basic-exercises-in-C-logic-and-syntax/exercises_3/obj/Debug/net8.0/ref/exercises_3.dll
